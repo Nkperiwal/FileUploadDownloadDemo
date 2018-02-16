@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33054" started-at="2018-02-16T19:41:39Z" finished-at="2018-02-16T19:42:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33054" started-at="2018-02-16T19:41:39Z" finished-at="2018-02-16T19:42:12Z">
+      <class name="seleniumcodes.UploadDownloadFile">
+        <test-method status="PASS" signature="testUpload()[pri:1, instance:seleniumcodes.UploadDownloadFile@6895a785]" name="testUpload" duration-ms="18476" started-at="2018-02-17T01:11:39Z" finished-at="2018-02-17T01:11:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpload -->
+        <test-method status="PASS" signature="testDownloadFile()[pri:2, instance:seleniumcodes.UploadDownloadFile@6895a785]" name="testDownloadFile" duration-ms="14539" started-at="2018-02-17T01:11:58Z" finished-at="2018-02-17T01:12:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDownloadFile -->
+      </class> <!-- seleniumcodes.UploadDownloadFile -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
